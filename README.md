@@ -14,7 +14,7 @@ Unfortunately, most vegan yogurt is absolutely terrible: grainy, sweet, and fill
 
 There are all sorts of places you can find those bacteria to use them as a starter.
 
-You can get powdered yogurt starter, or use a probiotic supplement; you can take your favorite water kefir or probiotic drink and mix that in; you can try to wild-catch some bacteria by letting a couple chickpeas ferment in clean water outside for a couple of days (as a note, this last one can be dangerous, be careful, test small quantities first, and please don't consume anything your nose and taste buds tell you is bad).
+You can get powdered yogurt starter, or use a probiotic supplement; you can take your favorite water kefir or probiotic drink and mix that in; you can try to wild-catch some bacteria by letting a couple chickpeas ferment in clean water outside for a couple of days (as a note, this last one can be dangerous: be careful, test small quantities first, and please don't consume anything your nose and taste buds tell you is bad).
 
 *Most* folks use a yogurt they already like to start their yogurt -- and once you've made some yogurt, you can use that yogurt to make more.
 
