@@ -1,0 +1,17 @@
+title: veganyogurt4u
+description: ai, projects, yogurt, and other things
+url: "https://veganyogurt4u.com"
+baseurl: ""
+permalink: pretty
+
+# Markdown rendering
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Don't copy these to the built site
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE

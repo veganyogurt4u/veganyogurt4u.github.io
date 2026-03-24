@@ -1,0 +1,10 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+    <nav class="site-nav">
+      <a href="{{ '/writeups/' | relative_url }}" {% if page.section == 'ai' %}class="active"{% endif %}>ai</a>
+      <a href="{{ '/projects/' | relative_url }}" {% if page.section == 'projects' %}class="active"{% endif %}>projects</a>
+      <a href="{{ '/yogurt/' | relative_url }}" {% if page.section == 'yogurt' %}class="active"{% endif %}>yogurt</a>
+    </nav>
+  </div>
+</header>
